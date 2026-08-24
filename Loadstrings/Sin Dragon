@@ -29,7 +29,7 @@ clickfling = false --adds click flinging regardless of attacks
 flingtargetting = 3 --fling reproot method
 -- 3 - sethiddenproperty
 -- 2 - setscriptable
--- 1 - no unc (can be tampered with & detected)
+-- 1 - no unc (WARNING: can be tampered with & detected)
 -- 0 - off (prediction fling)
 flingdirection = 0 --direction you are flinging people in
 -- 0 - upwards
