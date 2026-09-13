@@ -33,7 +33,7 @@ flingchangestate = 3 --fling enhancements
 -- 1 - changestate physics (fling with whole body)
 -- 2 - disable sitting
 -- 3 - all (changestate physics and disable sitting)
-respawntp = 3 --respawn tp mode
+respawntp = 1 --respawn tp mode
 -- 0 - stay at spawn
 -- 1 - randomtp close
 -- 2 - behind fake character
