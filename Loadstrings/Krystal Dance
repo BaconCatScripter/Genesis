@@ -40,7 +40,7 @@ respawntp = 3 --respawn tp mode
 -- 3 - hide body
 disguiscripts = true --disable scripts inside of playergui
 discharscripts = true --disable character scripts
-breakjointsmethod = 4 --breakjoints mode
+breakjointsmethod = 1 --breakjoints mode
 -- 1 - health+breakjoints (the most support)
 -- 2 - health or breakjoints
 -- 3 - breakjoints
